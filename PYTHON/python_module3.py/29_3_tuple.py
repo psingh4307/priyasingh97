@@ -1,0 +1,1 @@
+# write a python program to remove an empty tuple from the list of tuple

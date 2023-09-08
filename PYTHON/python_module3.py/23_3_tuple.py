@@ -1,0 +1,1 @@
+# write a python programe to check whether an element exits with a tuple
